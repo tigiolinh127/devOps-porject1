@@ -1,0 +1,2 @@
+S3 static host url: http://udacity-devops-project1-066778212893.s3-website-us-east-1.amazonaws.com/
+cloudFront url: https://d1xekiavie71nq.cloudfront.net/
